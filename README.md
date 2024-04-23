@@ -1,2 +1,2 @@
 # Excel-Vrinda-Store-Data-Analysis
-Vrinda Store Data Analysis using Excel
+Vrinda Store analysis and Dashboard using Advanced Excel
