@@ -1,4 +1,5 @@
-# Excel-Vrinda-Store-Data-Analysis
+# Vrinda-Store-Data-Analysis
+Vrinda Store analysis and Dashboard using Advanced Excel
 
 Objective: Vrinda Store analysis and Dashboard using Advanced Excel
 
