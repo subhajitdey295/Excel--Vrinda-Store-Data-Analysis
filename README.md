@@ -1,5 +1,6 @@
 # Vrinda-Store-Data-Analysis
 Objective: Vrinda Store analysis and Dashboard using Advanced Excel
+![Screenshot (32)](https://github.com/subhajitdey295/Excel_Vrinda_Store/assets/73297451/8e8c7182-926c-40a9-a45b-dcb467368cf5)
 
 Key Findings: 
 ✔ Customer demographics: Women are more likely to be buyers compared to men (64%). The adult age group (30-49 years old) contributes the most to overall sales.
